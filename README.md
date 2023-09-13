@@ -4,6 +4,8 @@ usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
            [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
            [--config-env=<name>=<envvar>] <command> [<args>]
 
+This is my first repository using Git.
+
 These are common Git commands used in various situations:
 
 start a working area (see also: git help tutorial)
